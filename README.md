@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshad Bhusare 👋</h1>
 
 <p align="center">
-Data & ML Engineer · IIT Kharagpur Graduate<br/>
+AI and Data Engineer · IIT Kharagpur Graduate<br/>
 Building things with data, models, and code.
 </p>
 
@@ -22,9 +22,6 @@ Building things with data, models, and code.
 ---
 
 ### 📌 Featured Projects
-
-- **[Project Name](https://github.com/BhusareHarshad/repo)** — one-line description of what it does and the impact.
-- **[Project Name](https://github.com/BhusareHarshad/repo)** — one-line description of what it does and the impact.
 
 ---
 
